@@ -1,4 +1,4 @@
-# Music Store Sales Analysis
+# Music Store Analysis
 
 An end-to-end data analysis project using SQL and Power BI to analyze music store sales, customer activity, track performance, and revenue trends.
 
